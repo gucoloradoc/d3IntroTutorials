@@ -1,0 +1,9 @@
+p.big{
+  font-size: 14pt;
+}
+#chart p {
+  color: red;
+}
+p#p1 {
+  color: green;
+}
